@@ -1,0 +1,16 @@
+# Core libraries
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Visualization
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Jupyter & notebook support
+jupyter==1.1.1
+notebook==7.2.2
+ipython==8.27.0
+
+# Data handling & utilities
+statsmodels==0.14.2
